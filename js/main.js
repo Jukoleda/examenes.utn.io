@@ -163,6 +163,7 @@ function calcularResultado(parcialDiv) {
     const porcentaje = Math.round((correctas / total) * 100);
     resultadoFinal.textContent = `Aciertos: ${porcentaje}% - ${porcentaje >= 60 ? "¡Aprobado! 🎉" : "Desaprobado ❌"}`;
     parcialDiv.appendChild(resultadoFinal);
+    alert(resultadoFinal.textContent);
 }
 
 function actualizarCalificacion() {

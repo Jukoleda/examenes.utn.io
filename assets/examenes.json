@@ -371,6 +371,255 @@
             "respuestaCorrecta": ["a"]
           }
         ]
+      },
+      {
+        "titulo": "Final 4",
+        "preguntas": [
+          {
+            "texto": "Seleccione la o las afirmaciones verdaderas.\nSea f una función de 3 variables que derivadas parciales continuas de segundo orden, entonces:\n\t1.𝑟𝑜𝑡(∇𝑓) = 0 (𝑣𝑒𝑐𝑡𝑜𝑟 𝑛𝑢𝑙𝑜)\n\t2. 𝑑𝑖𝑣(𝑟𝑜𝑡(∇𝑓)) = 0 (𝑣𝑒𝑐𝑡𝑜𝑟 𝑛𝑢𝑙𝑜",
+            "tipo": "checkbox",
+            "opciones": {
+              "a": "A",
+              "b": "B",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["a"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.\nC es una curva suave, cerrada, simple y orientada positivamente en el plano y D la región acotada por C. F=Pi+Qj es tal que sus componentes tienes derivadas parciales continuas de primer orden en una región que contiene a D, entonces:",
+            "imagenes": ["images/f1p4.png"],
+            "tipo": "checkbox",
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas\nSi f es una función derivable tres variables y u un vector unitario, un valor extremo de la derivada direccional 𝐷𝑢 𝑓(𝑥, 𝑦, 𝑧) se presenta cuando:\n\t1. 𝒖 𝑒𝑠 𝑜𝑟𝑡𝑜𝑔𝑜𝑛𝑎𝑙 𝑎𝑙 ∇𝑓\n\t2. 𝒖 𝑒𝑠 𝑝𝑎𝑟𝑎𝑙𝑒𝑙𝑜 𝑎𝑙 ∇𝑓\n\t3. 𝒖 𝑖𝑛𝑡𝑒𝑟𝑠𝑒𝑐𝑎 𝑎𝑙 ∇𝑓",
+            
+            "tipo": "checkbox",
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "3",
+              "d": "Todas son falsas"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas\nSea la función 𝑟(𝑡) = 𝑓(𝑡)𝑖 + 𝑔(𝑡)𝑗 + 𝑧(𝑡)𝑘\n\t1. r(t0) representa el vector posición en el punto (𝑓(𝑡0), 𝑔(𝑡0), 𝑧(𝑡0))\n\t2. r(t0) representa el vector tangente a la curva representada por r(t) en el punto (𝑓(𝑡0), 𝑔(𝑡0), 𝑧(𝑡0))\n\t3. el vector posición y el vector tangente son ortogonales para t=t0",
+            "tipo": "checkbox",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "3",
+              "d": "Todas son falsas"
+            },
+            "respuestaCorrecta": ["a"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas\nSea s(t) la función longitud de arco definida entre r(a) y r(t), entonces:",
+            "imagenes": ["images/f4p5.png"],
+            "tipo": "checkbox",
+            
+            "opciones": {
+             "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas\nSea S una superficie de nivel 𝐹(𝑥, 𝑦, 𝑧) = 𝑘, entonces:\n\t1. El plano tangente a S en un punto (𝑥0, 𝑦0, 𝑧0) tiene un vector normal ∇𝐹(𝑥0, 𝑦0, 𝑧0)\n\t2. Si (𝑥0, 𝑦0, 𝑧0) corresponde a un punto t0, entonces 𝑟′(𝑡0)𝑒𝑠 𝑝𝑎𝑟𝑎𝑙𝑒𝑙𝑜 𝑎 ∇𝐹(𝑥0, 𝑦0, 𝑧0)",
+            "tipo": "checkbox",
+            
+            "opciones": {
+             "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["a"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas\nDada la ecuación diferencial 𝑑𝑦/𝑑𝑡 = 𝑓(𝑦)\n\t1. El campo de pendientes presenta pendientes paralelas a lo largo de líneas horizontales\n\t2. La variación de pendientes depende exclusivamente de los valores de y",
+            "tipo": "checkbox",
+            
+            "opciones": {
+             "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["a", "b"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.\nLa divergencia de un campo vectorial gradiente (∇𝑓):\n\t1. Es igual a ∇^2= ∇ 𝑋 ∇\n\t2. Se denomina operador de Laplace o Laplaciano",
+          
+            "tipo": "checkbox",          
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas\nSi F es un campo vectorial continuo definido sobre una superficie orientada S, descripta vectorialmente por r(u,v), con vector unitario normal n. entonces la integral de flujo de F sobre S es:",
+            "imagenes": ["images/f4p9.png"],
+            
+            "tipo": "checkbox",          
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "Dada una EDO, el principio de linealidad o superposición establece que:",
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "La ecuación tiene siempre al menos una solución",
+              "b": "La combinación lineal de 2 o mas soluciones también es solución",
+              "c": "Si la ecuación es homogénea, existe una única solución",
+              "d": "Ninguna es correcta"
+
+            },
+            "respuestaCorrecta": ["d"]
+          }
+        ]
+      },
+      {
+        "titulo": "Final 5",
+        "preguntas": [
+          {
+            "texto": " La curvatura de una curva en un punto se puede expresar como:",
+            "tipo": "radio",
+            "opciones": {
+              "a": "El modulo del cociente entre el vector unitario tangente y su derivada, en ese punto ",
+              "b": "El modulo del cociente entre el vector unitario tangente y la función vectorial, en ese punto",
+              "c": "El modulo del cociente entre el vector unitario tangente y la longitud de arco, en ese punto",
+              "d": "Ninguna de las anteriores",
+              "e": "no estaba marcada la respuesta"
+            },
+            "respuestaCorrecta": ["e"]
+          },
+          {
+            "texto": "Si F es un campo vectorial en 𝑅^3/ sus componentes tienen derivadas parciales continuas, entonces: ",
+            "tipo": "radio",
+            "opciones": {
+              "a": "𝑟𝑜𝑡(𝐹) = 0 𝑦 𝑑𝑖𝑣(𝑟𝑜𝑡(𝐹)) = 0",
+              "b": "𝑟𝑜𝑡(𝐹) = 0 𝑦𝑦 𝑑𝑖𝑣(𝐹) = 0",
+              "c": "D𝑖𝑣(𝑟𝑜𝑡(𝐹)) = 0",
+              "d": "Ninguna de las anteriores"
+            },
+            "respuestaCorrecta": ["d"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas\nSea f(x,y,z) una función derivable y u un vector unitario, en 𝑅3, entonces el máximo valor de la derivada en la dirección del u:",
+            "imagenes": ["images/f5p3.png"],
+
+            "tipo": "checkbox",
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Todas son falsas"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.",
+            "imagenes": ["images/f5p4.png"],
+
+            "tipo": "checkbox",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Todas son falsas"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "Una superficie paramétrica suave S está dada por la ecuación 𝑟(𝑢,𝑣) = 𝑥(𝑢 ,𝑣)𝑖 + 𝑦(𝑢,𝑣)𝑗 +𝑧(𝑢,𝑣)𝑘, tal que (u, v) pertenece al dominio D y S es cubierta una sola vez cuando (u, v) varia en todo el dominio D, entonces el área superficial de S es:",
+            "imagenes": ["images/f5p5_1.png","images/f5p5_2.png","images/f5p5_3.png"],
+            "tipo": "radio",
+            
+            "opciones": {
+             "a": "A",
+              "b": "B",
+              "c": "C",
+              "d": "D",
+              "e": "Ninguna de las anteriores"
+            },
+            "respuestaCorrecta": ["e"]
+          },
+          {
+            "imagenes": ["images/f5p6.png"],
+
+            "tipo": "radio",
+            
+            "opciones": {
+             "a": "A",
+              "b": "B",
+              "c": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "Dado un sistema de ecuaciones diferenciales de primer orden, el retrato fase es una representación gráfica: ",
+            "tipo": "radio",
+            
+            "opciones": {
+             "a": "De algunas soluciones del sistema, excluyendo las soluciones de equilibrio",
+              "b": "De algunas soluciones del sistema, incluyendo las soluciones de equilibrio",
+              "c": "Solo de las soluciones de equilibrio del sistema",
+              "d": "Ninguna es correcta"
+
+            },
+            "respuestaCorrecta": ["d"]
+          },
+          {
+            "texto": "Sea f es una función derivable tal que sus derivadas primeras son continuas en R y C una curva suave definida por r(t) en [a, b] entonces:",
+            "imagenes": ["images/f5p8.png"],
+
+            "tipo": "radio",          
+            "opciones": {
+              "a": "A",
+              "b": "B",
+              "c": "C",
+              "d": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["d"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas\nDada las siguientes afirmaciones:\n\t1. El campo de pendientes/direcciones de una EDO de primer orden autónoma presenta pendientes idénticas a lo largo de rectas horizontales\n\t2. En el campo de pendientes/direcciones de una EDO de primer orden, las soluciones de equilibrio presentan pendientes nulas a lo largo de rectas horizontales",
+            
+            "tipo": "checkbox",          
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["a", "b"]
+          },
+          {
+            "imagenes": ["images/f5p10.png"],
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "La velocidad neta del fluido que atraviesa la superficie S por unidad de tiempo",
+              "b": "La densidad del fluido que atraviesa la superficie S por unidad de tiempo",
+              "c": "La cantidad neta del fluido que atraviesa la superficie S por unidad de tiempo",
+              "d": "Ninguna es correcta"
+
+            },
+            "respuestaCorrecta": ["c"]
+          }
+        ]
       }
     ]
   }
