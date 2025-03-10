@@ -1,0 +1,377 @@
+{
+    "examenes": [
+      {
+        "titulo": "Final 1",
+        "preguntas": [
+          {
+            "texto": "Una curva C definida por la función 𝑟(𝑡) = 𝑥(𝑡)𝑖 + 𝑦(𝑡)𝑗 + 𝑧(𝑡)𝑘 𝑐𝑜𝑛 𝑧(𝑡) = 𝑐𝑡𝑒",
+            "tipo": "radio",
+            "opciones": {
+              "a": "Tiene curvatura y torsión cte.",
+              "b": "Tiene torsion nula.",
+              "c": "Tiene curvatura nula",
+              "d": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "Las derivadas parciales (Fx y Fy) de una función definida en un dominio D cerrado existen y son continuas, para todo (x,y) perteneciente D.",
+            "tipo": "radio",
+            "opciones": {
+              "a": "La afirmación es V si F es una función continua en R2",
+              "b": "La afirmación es V si F es una función continua en 𝑅2 y D es conexo",
+              "c": "La afirmación es V si F es una función continua en 𝑅2 y D es simplemente conexo",
+              "d": "La afirmacion es F"
+            },
+            "respuestaCorrecta": ["d"]
+          },
+          {
+            "texto": "En el sistema de coordenadas cilíndricas, un punto P en espacio tridimensional esta representado por la terna ( 𝑟, 𝜃, ℎ) donde:",
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "𝑟 𝑦 𝜃 son las coordenadas polares de la proyección de P sobre el plano XY y h es la distancia desde el origen hasta P",
+              "b": "𝑟 𝑦 𝜃 son las coordenadas polares de la proyección de P sobre alguno de los planos coordenados y h es la distancia desde dicho plano hasta P",
+              "c": "𝑟 𝑦 𝜃 son las coordenadas polares de la proyección de P sobre alguno de los planos coordenados y h es la distancia desde el origen hasta P",
+              "d": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "Si F es un campo vectorial no conservativo, cuyas componentes tienen derivadas parciales continuas sobre una región abierta de𝑅3, entonces ¿Cuál/es de las siguientes afirmaciones son verdaderas?",
+            "imagenes": ["images/f1p4.png"],
+            "tipo": "checkbox",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "3",
+              "d": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["a","c"]
+          },
+          {
+            "texto": "Sea S una superficie orientada con ecuación z= g(x,y), entonces el vector unitario normal es:",
+            "imagenes": ["images/f1p5.png"],
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "A",
+              "b": "B",
+              "c": "C",
+              "d": "D"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "Sea E una region solida y S la superficie frontera de E, definida con orientación positiva. Sea F un campo vectorial cuyas componentes tienen derivadas parciales continuas sobre una región abierta que contiene a E. Teorema de la divergencia (Gauss) dice:",
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "La integral de superficie de un campo vectorial F sobre S, es igual a la integral triple de la divergencia de F sobre E",
+              "b": "La integral de superficie de un campo vectorial F sobre S, es igual a la integral de línea sobre la curva que limita a S",
+              "c": "La integral de superficie del rotacional de un campo vectorial F sobre S, es igual a la integral triple de la divergencia de F sobre E",
+              "d": "Ninguna de las anteriores afirmaciones es verdadera"
+            },
+            "respuestaCorrecta": ["a"]
+          },
+          {
+            "texto": "Dada la ecuación diferencial dy/dt=f(y), seleccione las afirmaciones verdaderas\n\t1- El campo de pendientes presenta pendientes paralelas para cada valor de la variable independiente.\n\t2- La variación de pendientes depende exclusivamente de la variable dependiente",
+            "tipo": "checkbox",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["a","b"]
+          },
+          {
+            "texto": "Dada una EDO, el principio de linealidad o superposición establece que:",
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "La ecuación tiene siempre al menos una solución",
+              "b": "La combinación lineal de 2 o mas soluciones también es solución",
+              "c": "Si la ecuación es homogénea, existe una única solución",
+              "d": "Ninguna es correcta"
+
+            },
+            "respuestaCorrecta": ["d"]
+          },
+          {
+            "texto": "El teorema de Strokes se cumple cuando:",
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "S es una superficie uniforme (suave) por partes, acotada por una curva C tal que C es simple, cerrada, suave por partes. F es un campo vectorial cuyas componentes tienen derivadas parciales continuas sobre una región abierta de 𝑅3 que contiene a S",
+              "b": "S es una superficie uniforme (suave) por partes, acotada por una curva C tal que C es simple, cerrada, suave por partes y orientada positivamente. F es un campo vectorial cuyas componentes tienen derivadas parciales continuas sobre una región abierta de 𝑅3 que contiene a S",
+              "c": "S es una superficie uniforme (suave) por partes, acotada por una curva C tal que C es simple, cerrada, suave por partes. F es un campo vectorial cuyas componentes tienen derivadas parciales continuas sobre una región abierta de 𝑅3 que contiene a S",
+              "d": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["d"]
+          },
+          {
+            "texto": "Seleccione la o las opciones verdaderas",
+            "imagenes": ["images/f1p10.png"],
+            "tipo": "checkbox",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["b"]
+          }
+        ]
+      },
+      {
+        "titulo": "Final 2",
+        "preguntas": [
+          {
+            "texto": "Marcar la o las afirmaciones verdaderas. \nLa longitud de una curva plana simple en 𝑅2, con ecuación vectorial 𝑟(𝑡) =< 𝑓(𝑡), 𝑔(𝑡) >/x=f(t) , y=g(t)\ncon a≤ 𝑡 ≤ 𝑏, donde 𝑓′(𝑡)𝑦 𝑔′(𝑡) 𝑐𝑜𝑛𝑡𝑖𝑛𝑢𝑎𝑠 𝑝𝑎𝑟𝑎 𝑡𝑜𝑑𝑜 𝑡,se define como:",
+            "imagenes": ["images/f2p1.png"],
+            "tipo": "checkbox",
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.\nDada una función f de dos variables:\nSi 𝑓(𝑥, 𝑦) → 𝐿1𝑐𝑢𝑎𝑛𝑑𝑜 (𝑥, 𝑦) → (𝑎, 𝑏)𝑎 𝑙𝑜 𝑙𝑎𝑟𝑔𝑜 𝑑𝑒 𝑢𝑛𝑎 𝑡𝑟𝑎𝑦𝑒𝑐𝑡𝑜𝑟𝑖𝑎 𝐶1 𝑦\n𝑓(𝑥, 𝑦) → 𝐿2 𝑐𝑢𝑎𝑛𝑑𝑜 (𝑥, 𝑦) → (𝑎, 𝑏)𝑒𝑛𝑙𝑎 𝑡𝑟𝑎𝑦𝑒𝑐𝑡𝑜𝑟𝑖𝑎 𝐶2, 𝑑𝑜𝑛𝑑𝑒 𝐿1 ≠ 𝐿2, 𝑒𝑛𝑡𝑜𝑛𝑐𝑒:\n\t1. f no presenta discontinuidad en (a, b)\n\t2. no se puede obtener conclusiones acerca de la existencia de limite de f en (a, b)\n\t3. f no tiene límite en (a, b)",
+            "tipo": "checkbox",
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "3",
+              "d": "Todas son falsas"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas",
+            "imagenes": ["images/f2p3.png"],
+            "tipo": "checkbox",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Todas son falsas"
+            },
+            "respuestaCorrecta": ["a"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.\nDada una curva en 𝑅3 definida por r(t). Si |𝑟(𝑡)|es constante para todo t, entonces:\n\t1. r’(t) ⊥ r(t)\n\t2. r´(t) ∥ r’’(t)",
+            "tipo": "checkbox",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Todas son falsas"
+            },
+            "respuestaCorrecta": ["a"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.\nSi f es una función de dos variables continua en una región general 𝐷 = {(𝑥, 𝑦)|𝑎 ≤ 𝑥 ≤ 𝑏, 𝑔1(𝑥) ≤ 𝑦 ≤ 𝑔2(𝑥)|}, entonces:",
+            "imagenes": ["images/f2p5.png"],
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Todas son falsas"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "Dada una curva C cerrada y un dominio D acotado por C , entonces el teorema de Green establece que:",
+            "imagenes": ["images/f2p6.png"],
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "La afirmacion es V",
+              "b": "La afirmacion es V si P y Q tienen derivadas parciales de primer orden",
+              "c": "La afirmacion es V si P y Q tienen derivadas parciales de primer orden en una región cerrada incluida en D",
+              "d": "La afirmacion es F"
+            },
+            "respuestaCorrecta": ["d"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.\nSean y1(t) e y2(t) un par de soluciones particulares de la ecuación homogénea 𝑚𝑦´´ + 𝑏𝑦´ + 𝑘𝑦 = 0 (𝑐𝑜𝑛 𝑚 ≠ 0) en un intervalo I, entonces:\n\t1. Y1(t) e y2(t) son linealmente independientes en I si y solo si y1(t) y2(t)-y2’(t) y1’(t) nunca se anula en I\n\t2. Y1(t) e y2(t) son linealmente dependientes en I si y solo si y1(t) y2(t)-y2’(t) y1’(t)=0 en I",
+            "tipo": "checkbox",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.\nSea z=f(u,v) una función derivable de u y v/u= g(x,y) y v=h(x,y) son funciones derivables de x e y, entonces:",
+            "imagenes": ["images/f2p8.png"],
+          
+            "tipo": "checkbox",          
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.\nSea f=f(x,y) una función de dos variables / las segundas derivadas parciales de f son continuas en un disco con centro en (a,b), siendo (a,b) es un punto critico de f.\n\t1. Si el hessiano es menor que 0 entonces f(a,b) es un punto de inflexión\n\t2. Si el hessiano es igual a 0 entonces f(a,b) es un extremo local",
+            
+            "tipo": "checkbox",          
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "Seleccione la o las opciones verdaderas.\nLa grafica representa una solución particular de un oscilador armónico. A partir de la grafica se puede afirmar que el oscilador:\n\t1. Es amortiguado y no forzado\n\t2. Es forzado y no amortiguado\n\t3. El oscilador tiene condiciones iniciales nulas",
+            "imagenes": ["images/f2p10.png"],
+            "tipo": "checkbox",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "3",
+              "d": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["a"]
+          }
+        ]
+      },
+      {
+        "titulo": "Final 3",
+        "preguntas": [
+          {
+            "texto": "Marcar la o las afirmaciones verdaderas. \nLa longitud de una curva C, definida por la función 𝑟(𝑡) = 𝑥(𝑡)𝑖 + 𝑦(𝑡)𝑗 + 𝑧(𝑡)𝑘 Con 𝑎 ≤ 𝑡 ≤ ℎ, se define como:",
+            "imagenes": ["images/f3p1.png"],
+            "tipo": "checkbox",
+            "opciones": {
+              "a": "A",
+              "b": "B",
+              "c": "C",
+              "d": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["d"]
+          },
+          {
+            "texto": "Si las derivadas parciales de una función f(fx,fy) existen en un entorno de un punto (a, b) y son continuas en (a, b), entonces:",
+            "tipo": "radio",
+            "opciones": {
+              "a": "𝜕𝑓/𝜕𝑥 = 𝜕𝑓/𝜕y",
+              "b": "𝜕2𝑓/𝜕𝑥2 = 𝜕2𝑓/𝜕𝑦2",
+              "c": "𝑓 es diferenciable en (a, b)",
+              "d": "𝑓 es diferenciable en todo entorno de (a, b)"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "En el sistema de coordenadas cilíndricas, un punto P en espacio tridimensional esta representado por la terna (𝑟, 𝜃, ℎ) donde:",
+            
+            "tipo": "radio",
+            "opciones": {
+              "a": "𝑟 𝑦 𝜃 son las coordenadas polares de la proyección de P sobre el plano XY y h es la distancia desde el origen hasta P",
+              "b": "𝑟 𝑦 𝜃 son las coordenadas polares de la proyección de P sobre alguno de los planos coordenados y h es la distancia desde dicho plano hasta P",
+              "c": "𝑟 𝑦 𝜃 son las coordenadas polares de la proyección de P sobre alguno de los planos coordenados y h es la distancia desde el origen hasta P",
+              "d": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.\nSi F es un campo vectorial conservativo entonces:\n\t1. 𝑟𝑜𝑡(𝐹) = 0\n\t2. 𝑟𝑜𝑡(𝐹) = 0 𝑦 𝑑𝑖𝑣(𝐹) = 0\n\t3. 𝑑𝑖𝑣(𝑟𝑜𝑡(𝐹)) = 0",
+            "tipo": "checkbox",
+            
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "3",
+              "d": "Todas son falsas"
+            },
+            "respuestaCorrecta": ["a", "c"]
+          },
+          {
+            "texto": "Sea S una superficie orientada con ecuación z=g(x,y), entonces el vector unitario normal es:",
+            "imagenes": ["images/f3p5.png"],
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "A",
+              "b": "B",
+              "c": "C",
+              "d": "D"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "Sea E una región sólida y S la superficie frontera de E, definida con orientación positiva. Teorema de la divergencia (gauss) dice que:",
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "La integral de superficie de un campo vectorial F sobre S, es igual a la integral triple de la divergencia de F sobre E.",
+              "b": "La integral de superficie de un campo vectorial F sobre S, es igual a la integral de línea sobre la curva que limita a S.",
+              "c": "La integral de superficie del rotacional de un campo vectorial F sobre S, es igual a la integral triple de la divergencia de F sobre E",
+              "d": "Ninguna de las anteriores afirmaciones es verdadera"
+            },
+            "respuestaCorrecta": ["a"]
+          },
+          {
+            "texto": "Dada una EDO, el principio de linealidad o superposición establece que:",
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "La ecuación tiene siempre al menos una solución",
+              "b": "La combinación lineal de 2 o mas soluciones también es solución",
+              "c": "Si la ecuación es homogénea, existe una única solución",
+              "d": "Ninguna es correcta"
+
+            },
+            "respuestaCorrecta": ["d"]
+          },
+          {
+            "texto": "Seleccionar la o las afirmaciones verdaderas.\nEn una curva plana:\n\t1. La curvatura es constante\n\t2. La torsión vale 0",
+          
+            "tipo": "checkbox",          
+            "opciones": {
+              "a": "1",
+              "b": "2",
+              "c": "Ambas son falsas"
+            },
+            "respuestaCorrecta": ["b"]
+          },
+          {
+            "texto": "En un oscilador con amortiguamiento escaso:",
+            
+            "tipo": "radio",          
+            "opciones": {
+              "a": "las raíces del polinomio característico son reales y distintas",
+              "b": "las raíces del polinomio característico son reales e iguales",
+              "c": "las raíces del polinomio característico son complejas",
+              "d": "ninguna de las anteriores es correcta"
+            },
+            "respuestaCorrecta": ["c"]
+          },
+          {
+            "texto": "en un sistema EDO de primer orden, el plano fase es:",
+            "tipo": "radio",
+            
+            "opciones": {
+              "a": "Un plano donde se representan algunas soluciones del sistema en función de las dos variables dependientes",
+              "b": "Un plano donde se representan algunas soluciones del sistema en función de las dos variables independientes",
+              "c": "Un plano donde se representan todas las soluciones del sistema en función del tiempo",
+              "d": "Ninguna es correcta"
+            },
+            "respuestaCorrecta": ["a"]
+          }
+        ]
+      }
+    ]
+  }
+  
